@@ -1,0 +1,20 @@
+# bisa masukan di git ignore file yg tidak ingin di upload ke github
+
+# bisa berupa file atau folder
+
+# example 
+# masukan lansung nama file nya
+text.index
+
+# masukan folder dan tambahkan /
+data/
+
+# kira juga bisa mem filter pola
+*.exe
+# hasil nya semua file berekstensi exe akan diabaikan
+
+#kesimpuan 
+text.index
+data/
+*.exe
+
